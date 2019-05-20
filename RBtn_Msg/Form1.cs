@@ -15,5 +15,15 @@ namespace RBtn_Msg
         {
             InitializeComponent();
         }
+
+        private void GroupBox1_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void RadioButton1_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
